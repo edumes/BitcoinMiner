@@ -1,0 +1,4 @@
+bip32utils==0.1.6
+mnemonic==0.19
+requests==2.26.0
+colorlog==6.4.1
